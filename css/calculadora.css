@@ -1,0 +1,25 @@
+body{
+    width:80%;
+    margin:20px auto;
+    background-image: url(../media/calculadora3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: blueviolet;
+    text-align:center;
+}
+table {
+    width: 100%;
+}
+button,input {
+    width: 100%;
+    font-size: 150%;
+   
+}
+input{
+     text-align: center;
+}
+.ac {
+    color: blueviolet;
+}
